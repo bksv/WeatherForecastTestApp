@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/constraint_background.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_113.xml" value="0.2265625" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_116.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_119.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_122.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_143.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_176.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_179.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_182.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_185.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_200.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_227.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_230.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_248.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_260.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_263.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_266.xml" value="0.9964285714285714" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_281.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_284.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_293.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_296.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_299.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_302.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_305.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_308.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_311.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_314.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_317.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_320.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_323.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_326.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_329.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_332.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_335.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_338.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_350.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_353.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_356.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_359.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_362.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_365.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_368.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_371.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_374.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_377.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_386.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_389.xml" value="0.871875" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_392.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_395.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_day_ic_day_293.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_humidity.xml" value="0.2015625" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_113.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_116.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_119.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_122.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_143.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_176.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_179.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_182.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_185.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_200.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_227.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_230.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_248.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_260.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_263.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_266.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_281.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_284.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_293.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_296.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_299.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_302.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_305.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_308.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_311.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_314.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_317.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_320.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_323.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_326.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_329.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_332.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_335.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_338.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_350.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_353.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_356.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_359.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_362.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_365.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_368.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_371.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_374.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_377.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_386.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_389.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_392.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_night_395.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_notification.xml" value="0.2015625" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_partly_cloudy.xml" value="0.2015625" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_wind.xml" value="0.2015625" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/ic_windy.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/drawable/rounded_button.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/layout/activity_forecast_report.xml" value="0.25" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/layout/activity_main.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/layout/daily_weather_item.xml" value="0.2109375" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/layout/dropdown_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/layout/hourly_weather_item.xml" value="0.2109375" />
+        <entry key="..\:/Users/bohda/AndroidStudioProjects/WeatherForecastTestApp/app/src/main/res/menu/forecast_menu.xml" value="0.2109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

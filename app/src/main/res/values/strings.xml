@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherForecastTestApp</string>
+    <string name="forecast_report">Forecast report    ></string>
+    <string name="today">Today</string>
+    <string name="today_main">Today,</string>
+    <string name="separator">|</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Hum</string>
+    <string name="curr_weather_error">Loading current weather failed, retry?</string>
+    <string name="close">Close</string>
+    <string name="retry">Retry</string>
+    <string name="next_forecast">Next forecast</string>
+    <string name="logo">AccuWeather</string>
+    <string-array name="cities">
+        <item>London</item>
+        <item>Paris</item>
+        <item>Berlin</item>
+        <item>Warsaw</item>
+        <item>Lviv</item>
+        <item>Rome</item>
+        <item>Oslo</item>
+        <item>Tokyo</item>
+        <item>Seoul</item>
+    </string-array>
+</resources>
